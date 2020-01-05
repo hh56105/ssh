@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="053b96e7-8794-4145-affa-39923995721f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="struts_2_5" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="E:\git\Git\bin\git.exe" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VxgLFbs5ppn6Xl0t0iE3Iv1qQN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\SSH1\ssh\res" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="053b96e7-8794-4145-affa-39923995721f" name="Default Changelist" comment="" />
+      <created>1578200101447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578200101447</updated>
+      <workItem from="1578200106191" duration="758000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="591" y="231" key="#Project_Structure" timestamp="1578200192346">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="591" y="231" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1578200192346" />
+    <state x="743" y="408" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1578200585568">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="408" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578200585568" />
+    <state x="619" y="250" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1578200288165">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="619" y="250" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578200288165" />
+    <state x="874" y="463" width="273" height="218" key="Github.ShareDialog" timestamp="1578200676473">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="874" y="463" width="273" height="218" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578200676473" />
+    <state x="695" y="277" key="Github.UntrackedFilesDialog" timestamp="1578200685838">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="695" y="277" key="Github.UntrackedFilesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578200685838" />
+    <state x="479" y="147" key="SettingsEditor" timestamp="1578200641968">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="479" y="147" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1578200641968" />
+    <state x="373" y="182" key="new project wizard" timestamp="1578200147459">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="373" y="182" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1578200147459" />
+  </component>
+</project>
